@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+metapod
+*.d
+.*.sw?
