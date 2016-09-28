@@ -1,3 +1,6 @@
 [submodule "subprocess"]
 	path = subprocess
 	url = git@github.com:Taywee/lua-subprocess.git
+[submodule "lua"]
+	path = lua
+	url = https://github.com/LuaDist/lua.git
